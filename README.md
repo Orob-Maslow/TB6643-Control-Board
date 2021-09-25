@@ -14,5 +14,7 @@ The control board which powers the Maslow CNC Router Machine by
 
 ![New Shield](https://github.com/EBS-Maslow/TB6643-Control-Board/blob/main/TB_specs.gif)
 
+![New Shield](https://github.com/EBS-Maslow/TB6643-Control-Board/blob/main/Schematic_TB6643_2020b.jpg)
+
 
 
